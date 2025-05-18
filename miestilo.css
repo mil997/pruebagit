@@ -6,5 +6,17 @@ margin: 0;
 padding: 0;
 }
 h1{
+
     color: green;
+}
+.parrafo-estilo {
+  text-align: center;   /* Centra el texto */
+  font-weight: bold;    /* Aplica negrita */
+  font-style: italic;   /* Aplica cursiva */
+}
+.estilo-division {
+  background-color: #f0f0f0;  /* Color de fondo */
+  padding: 20px;              /* Espaciado interno */
+  border: 1px solid #ccc;     /* Borde gris claro */
+  border-radius: 8px;         /* Bordes redondeados */
 }
